@@ -1,2 +1,2 @@
-# demo-copilot
-Demo testing copilot repository
+# demo
+Demo Repo
